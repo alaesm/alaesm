@@ -28,7 +28,7 @@ brand: AlaeDev
 location: Tlemcen, Algeria
 education: B.Sc. Information Systems · 2025
 freelance: 2024 — Present
-target: M.Sc. Artificial Intelligence · Saudi Arabia
+target: M.Sc. Artificial Intelligence 
 portfolio: https://www.alaedev.me
 ```
 
